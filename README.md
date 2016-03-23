@@ -2,6 +2,11 @@
   <img src="LumberjackLogo.png" title="Lumberjack logo" float=left>
 </p>
 
+
+通用的日志Cocoa日志框架之一
+功能强大,但学起来难
+
+
 CocoaLumberjack
 ===============
 [![Build Status](https://travis-ci.org/CocoaLumberjack/CocoaLumberjack.svg?branch=master)](https://travis-ci.org/CocoaLumberjack/CocoaLumberjack)
